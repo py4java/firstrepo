@@ -1,5 +1,4 @@
 #!/bin/bash
 echo " adding two numbers bash script"
-sum=$(($num1 + $num2))
-echo "the sum is $sum"
+echo "the sum is "
 echo "sum.sh completed execution"
